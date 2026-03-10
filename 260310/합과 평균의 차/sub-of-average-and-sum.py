@@ -1,0 +1,6 @@
+a,b,c = map(int,input().split())
+k = int(a+b+c)
+r = int(k/3)
+print(k)
+print(r)
+print(k-r)
